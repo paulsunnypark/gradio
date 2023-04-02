@@ -6,7 +6,7 @@ import openai
 warnings.filterwarnings("ignore")
 
 # Use your API key to authenticate
-openai.api_key = "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"
+openai.api_key = "Your API key"
 
 # model = whisper.load_model("base")
 model = whisper.load_model("tiny")
